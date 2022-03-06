@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.dd76754f.css",
-    "main.js": "./static/js/main.f9e91f0f.js",
+    "main.css": "./static/css/main.5c0ff540.css",
+    "main.js": "./static/js/main.a25ea6ff.js",
     "static/js/787.97a60cd9.chunk.js": "./static/js/787.97a60cd9.chunk.js",
     "static/media/gramaticast-ep1.mp3": "./static/media/gramaticast-ep1.7dc7cf77e9bfd865551f.mp3",
     "index.html": "./index.html",
-    "main.dd76754f.css.map": "./static/css/main.dd76754f.css.map",
-    "main.f9e91f0f.js.map": "./static/js/main.f9e91f0f.js.map",
+    "main.5c0ff540.css.map": "./static/css/main.5c0ff540.css.map",
+    "main.a25ea6ff.js.map": "./static/js/main.a25ea6ff.js.map",
     "787.97a60cd9.chunk.js.map": "./static/js/787.97a60cd9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd76754f.css",
-    "static/js/main.f9e91f0f.js"
+    "static/css/main.5c0ff540.css",
+    "static/js/main.a25ea6ff.js"
   ]
 }
